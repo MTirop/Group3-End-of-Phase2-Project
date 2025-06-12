@@ -1,5 +1,5 @@
 ### Leveraging Multi-Platform Analytics for Smarter Film Investment Decisions
-![Guy watching movies](./Images\PNG.png "Guy watching movies")
+![Guy watching movies](./Images\PNG.png)
 
 #### Table of Contents
 - [Project Description](#project-description)
@@ -8,6 +8,7 @@
 - [Methodology](#methodology)
 - [Key Findings](#key-findings)
 - [Recommendations](#recommendations)
+- [Non Technical Presentation and Tableau](#non-technical-presentation-and-tableau-dashboard)
 - [Contributors](#contributors)
 - [License](#license)
 
@@ -177,6 +178,7 @@ plt.show()
 
 ###### Statistical Findings
 * One Way ANOVA
+
 Analysis of Variance, is a statistical test used to determine if there are statistically significant differences between the means of three or more independent groups.
 
 ```
@@ -262,6 +264,9 @@ print(coef_df.head(15))
 * Preparedness for market dips, and building flexibility into budgets and marketing plans to withstand underperforming years.
 * Continuously monitor industry trends, audience preferences, and emerging technologies. Be prepared to adapt production strategies and genre focus based on real-time market data.
 
+#### Non Technical Presentation and Tableau Dashboard
+Check out our interactive Tableau dashboard here[Movie Performance Tableau Dashboard](https://public.tableau.com/views/MovieIndustryAnalytics/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 #### Contributors
 * Lydiah Chumba
 * Dennis Ochieng Ouma
@@ -270,3 +275,5 @@ print(coef_df.head(15))
 * Kimberly Koskei
 
 #### Licence
+
+This project is licensed under the [**GNU General Public licence V3.0**](LICENSE).
