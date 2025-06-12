@@ -1,5 +1,4 @@
-### Leveraging Multi-Platform Analytics for Smarter Film Investment Decisions
-![Guy watching movies](./Images\PNG.png)
+## Leveraging Multi-Platform Analytics for Smarter Film Investment Decisions
 
 #### Table of Contents
 - [Project Description](#project-description)
@@ -73,7 +72,7 @@ plt.grid(True)
 plt.tight_layout()
 plt.show()
 ```
-![Budgets vs Worldwige Gross](./Images/Production%20Budget%20Vs%20Worldwide%20Gross.png)
+![Budgets vs Worldwide Gross](./Images/Production%20Budget%20Vs%20Worldwide%20Gross.png)
 
 This scatter plot displays the **worldwide gross revenue** of movies against their **production budget**, both on a logarithmic scale.
 
@@ -265,7 +264,7 @@ print(coef_df.head(15))
 * Continuously monitor industry trends, audience preferences, and emerging technologies. Be prepared to adapt production strategies and genre focus based on real-time market data.
 
 #### Non Technical Presentation and Tableau Dashboard
-Check out our interactive Tableau dashboard here[Movie Performance Tableau Dashboard](https://public.tableau.com/views/MovieIndustryAnalytics/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Check out our [Movie Performance Tableau Dashboard](https://public.tableau.com/views/MovieIndustryAnalytics/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) and [Non Techical Presentation](file:///C:/Users/Chumba/Desktop/Presentation.)
 
 #### Contributors
 * Lydiah Chumba
